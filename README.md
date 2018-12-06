@@ -1,6 +1,7 @@
 # arduino-rfid-PN532
 
 Connecting from an Arduino (UNO/Nano etc.) to a PN532 Breakout Board, which can read ISO14443 RFID tags @13.56MHz, via a SPI, I2C, or UART interface.
+![PN532 Breakout Board](https://raw.githubusercontent.com/playfultechnology/arduino-rfid-PN532/master/documentation/PN532%20Breakout%20Board.jpg)
 
 ## Components
 - [PN532 Module](https://www.banggood.com/NFC-PN532-Module-RFID-Near-Field-Communication-Reader-13_56MHZ-Compatible-With-Arduino-p-1263964.html) ~£9
